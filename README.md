@@ -33,6 +33,7 @@
 <img src="https://img.shields.io/badge/Vivado-E97627?style=flat-circle&logo=tableau&logoColor=white" />
 <img src="https://img.shields.io/badge/Verdi-FF4785?style=flat-circle&logo=Storybook&logoColor=white"/>
 <img src="https://img.shields.io/badge/VCS-FF4785?style=flat-circle&logo=Storybook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-228B22?style=flat-circle&logo=Storybook&logoColor=white"/>
 <br />
 
 <h4>🎨 About Me</h4>
