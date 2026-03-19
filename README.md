@@ -22,7 +22,7 @@
 <br>
 
 <h4>🔎 Extracurricular Activities </h4>
- <img src = "https://img.shields.io/badge/Semicon Date Analysis Course-1F45FC?style=flat-circle&logo=react&logoColor=61DAFB" />
+ <img src = "https://img.shields.io/badge/Semicon Data Analysis Course-1F45FC?style=flat-circle&logo=react&logoColor=61DAFB" />
  <img src = "https://img.shields.io/badge/Gachon System Semiconductor Academy-0088CC?style=flat-circle&logo=react&logoColor=61DAFB" />
  <img src = "https://img.shields.io/badge/Harman Semicon Academy-808000?style=flat-circle&logo=react&logoColor=61DAFB" />
 <br>
